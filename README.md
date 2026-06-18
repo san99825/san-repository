@@ -1,4 +1,4 @@
 # san-repository
 this is my frist repo
 <br>
-author-sahana naik
+author-sahana arun naik
